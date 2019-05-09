@@ -43,6 +43,7 @@
         "behat/mink-goutte-driver": "*",
         "behat/mink-selenium2-driver": "*",
         "malukenho/kawaii-gherkin": "^0.1.2",
+        "phpstan/phpstan": "^0.11.6",
         "phpunit/phpunit": "^5.0",
         "zendframework/zend-component-installer": "^2.1",
         "zendframework/zend-expressive-migration": "^0.1.3",
