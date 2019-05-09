@@ -1,6 +1,5 @@
 # PHP DDD Cargo Sample
 
-
 PHP 7 port of the cargo sample used in Eric Evans Domain-Driven Design book
 
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/codeliner/php-ddd-cargo-sample/badges/quality-score.png?s=d68042d97e40904ec369e137b60a1076509298f8)](https://scrutinizer-ci.com/g/codeliner/php-ddd-cargo-sample/)
